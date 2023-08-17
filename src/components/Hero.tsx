@@ -2,8 +2,8 @@ import HouseIllustration from "@/assets/svgs/HouseIllustration";
 
 export function Hero({}) {
   return (
-    <section>
-      <div className="flex items-center gap-x-32">
+    <section className="bg-[#E6F0FF]">
+      <div className="max-w-[1440px] mx-auto flex items-center gap-x-32">
         <div className="flex justify-center flex-col flex-1 ml-40">
           <h2 className="text-[#687690] text-lg font-medium tracking-[0.18px] mb-2">
             Welcome to Besnik Agency
