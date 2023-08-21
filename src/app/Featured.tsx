@@ -3,7 +3,7 @@ import Image from "next/image";
 export function Featured({ MobileIllustrationImage }: any) {
   return (
     <section className="my-[51px] mt-[72px] relative">
-      <div className="bg-[#063183] mx-auto max-w-[1110px] py-28 px-20 rounded-3xl flex">
+      <div className="bg-[#063183] mx-auto max-w-[1110px] py-28 px-20 rounded-3xl flex relative">
         <div className="flex flex-col gap-y-4">
           <h1 className="text-white text-4xl font-semibold leading-9">
             Featured Properties
