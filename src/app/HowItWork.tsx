@@ -12,7 +12,7 @@ export function HowItWork({}) {
           How its works ?
         </h2>
         <p className="text-center text-[#5A6473] font-normal leading-8 text-base mt-5">
-          Everything you need to know when you're looking to buy,
+          Everything you need to know when you&apos;re looking to buy,
           <br /> rent, or sell - all in one place.
         </p>
         <div className="flex justify-between mt-20">

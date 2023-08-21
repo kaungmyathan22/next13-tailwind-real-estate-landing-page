@@ -18,7 +18,7 @@ export function FeaturedSection({
           Featured Properties
         </h2>
         <div className="flex justify-between">
-          <p>Everything you need to know when you're looking</p>
+          <p>Everything you need to know when you&apos;re looking</p>
           <div className="flex items-center gap-x-2">
             <p className="text-lg font-semibold text-[#0689FF]">
               View All Properties
